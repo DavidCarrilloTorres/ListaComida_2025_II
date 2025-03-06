@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListaComida_2025_II</string>
+    <string name="desayuno">Desayunos en Familia</string>
+    <string name="hamburguer">Hamburguesa extra grande</string>
+    <string name="pizza">Pizza a la orden</string>
+    <string name="postre">Disfruta de los postres</string>
+    <string name="pozole">Cualquier dia es noche mexicana con Pozole</string>
+    <string name="tacos">Tacos de guisado</string>
+</resources>
